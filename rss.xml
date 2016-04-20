@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[TheSubway]]></title>
+        <description><![CDATA[TheSubway]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Wed, 20 Apr 2016 18:26:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/0847c1b3-f1b9-47fa-a062-41b4590fad75.jpg">]]></description>
+            <link>undefinednow-this-puts-things-into-pers/index.html</link>
+            <guid isPermaLink="false">ac76a267-6ecf-4aa9-8f03-955bcfdf911a</guid>
+            <pubDate>Wed, 20 Apr 2016 18:26:24 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
